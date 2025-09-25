@@ -1,4 +1,4 @@
-# 📞 Calling Agent AI Project
+# 📞 Calling AI Agent Project
 
 This project is an **AI-powered outbound calling agent** that automatically places phone calls to customers using the [Vapi AI API](https://vapi.ai/).  
 It reads customer phone numbers (and names) from a CSV file and makes automated calls through a virtual assistant. 
